@@ -1,6 +1,4 @@
-Modified version of shimboot which uses dl.fanqyxl.net for the raw shim source.
-Only build_complete.sh is supported.
-
+Modified version of shimboot which uses https://mirror.akane.network for the raw shim source.
 
 # Chrome OS RMA Shim Bootloader
 
