@@ -127,7 +127,7 @@ Note: If you are building for an ARM Chromebook, you need the `qemu-user-static`
 <details>
   <summary><b>Alternatively, you can run each of the steps manually:</b></summary>
   
-  1. Grab a Chrome OS RMA Shim from somewhere. Most of them have already been leaked and aren't too difficult to find.
+  1. Grab a Chrome OS RMA Shim from https://dl.fanqyxl.net/ChromeOS/Raw%20Shims/ or https://dl.diffusehyperion.com/075572b2-8c08-45c3-b054-cd27e1ad2f50.8a2a1d7d-27ed-4fd3-bbef-d688b0d12a65/ChromeOS/shims/raw or https://mirror.akane.network/shims/ChromeOS/shims/Raw/ .
   2. Download a Chrome OS [recovery image](https://chromiumdash.appspot.com/serving-builds?deviceCategory=ChromeOS) for your board.
   3. Unzip the shim and the recovery image if you have not done so already.
   4. Run `mkdir -p data/rootfs` to create a directory to hold the rootfs.
